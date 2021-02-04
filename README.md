@@ -10,4 +10,4 @@ The following image shows the web application's appearance and functionality:
 
 ![Code-Refactor](./assets/images/Code-Refactor.png)
 
-You can navigate to the website here: https://dannyphan6.github.io/Code-Refactor/
+You can navigate to the website here:  [Code-Refactor](https://dannyphan6.github.io/Code-Refactor/)
